@@ -1,0 +1,10 @@
+Link Domain : https://jakerpii.000webhostapp.com
+
+Hak akses : 1
+username : admin
+password : admin
+
+Hak akses : 2
+Username : alif*
+password : alif
+Jika ingin menambah username sebagai tamu bisa melakukan registrasi dan login yang sudah terdaftar registrasi 
